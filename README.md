@@ -4,10 +4,15 @@
 
 A kid-friendly 3D space site: 23 standalone single-file pages. Drag to rotate, scroll to zoom, click a body to open its own page. No build step, no server needed.
 
-**在线试用 / Live demo — <https://abc123.ct.ws/universe/>**
+**永久演示站 / Permanent live site（原始画质，由 GitHub Pages 托管）— <https://wendygreat.github.io/space-for-kids-3d/>**
 
-> 演示站用的是压缩画质版（行星贴图 1024px，配合 1MB 单文件上限）；本仓库提供的是原始画质版，贴图最高 4096px。
-> The live demo runs the size-limited build (textures downscaled to 1024 px to fit a 1 MB per-file cap); this repository holds the original-quality build with textures up to 4096 px.
+**镜像演示站 / Mirror demo（压缩画质版）— <https://abc123.ct.ws/universe/>**
+
+> GitHub Pages 这一版就是本仓库的原始画质版（贴图最高 4096px），打开即是首页，无需下载。
+> The GitHub Pages site serves this repository as-is — the original-quality build with textures up to 4096 px.
+>
+> 另一个站是压缩画质版（行星贴图 1024px，为了过 1MB 单文件上限），页面与功能完全一致。
+> The mirror runs the size-limited build (textures downscaled to 1024 px to fit a 1 MB per-file cap); pages and features are identical.
 
 ![Home page](screenshot-home.png)
 *首页 · 地球 · 宇宙总览第一站 / Home page*
@@ -99,7 +104,7 @@ Every page ships with: a full translation in 8 languages (EN / ZH / ZH-TW / JA /
 
 **在线看 / Live demo**
 
-直接打开 <https://abc123.ct.ws/universe/> — 无需下载，浏览器即可体验全站。
+直接打开 <https://wendygreat.github.io/space-for-kids-3d/>（原始画质，GitHub Pages 永久托管），或 <https://abc123.ct.ws/universe/>（压缩画质镜像）—— 无需下载，浏览器即可体验全站。
 
 **本地看 / Locally**
 
