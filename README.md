@@ -14,8 +14,8 @@ A kid-friendly 3D space site: 23 standalone single-file pages. Drag to rotate, s
 > 另一个站是压缩画质版（行星贴图 1024px，为了过 1MB 单文件上限），页面与功能完全一致。
 > The mirror runs the size-limited build (textures downscaled to 1024 px to fit a 1 MB per-file cap); pages and features are identical.
 
-![Home page](screenshot-home.png)
-*首页 · 地球 · 宇宙总览第一站 / Home page*
+![Preview](preview-collage.png)
+*四站一览 · 地球 / 太阳系 / 猎户座星云 / 仙女座星系 — Four stops at a glance: Earth, the Solar System, the Orion Nebula, the Andromeda Galaxy*
 
 ---
 
@@ -139,8 +139,9 @@ Upload all files to the site root as-is; `index.html` is served as the home page
 ├── index.html               # 首页 / home
 ├── *.html                   # 22 个专题页 / 22 topic pages
 ├── music-bg.mp3             # 背景音乐，必须与 html 同目录 / must sit beside the html files
-├── screenshot-*.png         # README 用截图 / screenshots for this README
-├── social-preview.png       # GitHub 社交预览图 / social preview (1280×640)
+├── preview-collage.png      # 四站拼图，README 头图与社交预览 / 4-stop collage, README banner + social preview
+├── screenshot-*.png         # 每页截图 / per-page screenshots
+├── robots.txt / sitemap.xml # 搜索引擎用 / for search engines
 └── README.md
 ```
 
