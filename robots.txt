@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wendygreat.github.io/space-for-kids-3d/sitemap.xml
